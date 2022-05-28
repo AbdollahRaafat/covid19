@@ -1,24 +1,39 @@
 # COVID19
 
 In this project, I built a React Redux COVID-19 Metrics data application that shows infected cases of COVID-19 world wide.
-The get the data from a free <a href="https://covid19api.com/">Covid-19 API</a>
+I got the data from a free <a href="https://covid19api.com/">Covid-19 API</a> online.
+
+### Mobile Screenshot
+
+![image](/src/images/mobile-shot.PNG)
+
+#### Desktop Screenshot
+
+![image](/src/images/pc-shot.PNG)
 
 ## Built With
 
 - React
+
 - Redux
 
 - ESLint
-- Tailwind CSS
+
 - Jest
+
+- Tailwind CSS
+
+- Framer Motion
+
+- ReactIcons
 
 ## Live Demo
 
-<a href="">covid19</a>
+<a href="https://world-covid-metrics.netlify.app/">COVID-19 Metrics Data</a>
 
 ## Live Demo Video
 
-<a href="">covid19 - Video Demo</a>
+<a href="https://www.loom.com/share/7bf98ec85feb4472bb796ab07a81c0a0">COVID-19 Metrics Data - Video Demo</a>
 
 ## Getting Started
 
@@ -26,7 +41,7 @@ To get the code of this app and run it on you computer, please go through the fo
 
 ### Installation Guide
 
-- `git clone https://github.com/AbdollahRaafat/covid19.git`
+- `git clone https://github.com/AmaduKamara/covid-metrics-data`
 - `cd covid-metrics-data`
 - `npm install`
 - `npm start`
@@ -36,6 +51,11 @@ To get the code of this app and run it on you computer, please go through the fo
 - GitHub: [AbdollahRaafat](https://github.com/AbdollahRaafat)
 - LinkedIn: [AbdollahRaafat](https://www.linkedin.com/in/abdollah-raafat-886059221/)
 - Twitter: [AbdollahRaafat](https://twitter.com/abdollah_raafat)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to check the <a href="#">issues page</a>
 
 ## Show your support
 
