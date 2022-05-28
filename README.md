@@ -29,11 +29,11 @@ I got the data from a free <a href="https://covid19api.com/">Covid-19 API</a> on
 
 ## Live Demo
 
-<a href="https://world-covid-metrics.netlify.app/">COVID-19 Metrics Data</a>
+<a href="">COVID-19</a>
 
 ## Live Demo Video
 
-<a href="https://www.loom.com/share/7bf98ec85feb4472bb796ab07a81c0a0">COVID-19 Metrics Data - Video Demo</a>
+<a href="">COVID-19 - Video Demo</a>
 
 ## Getting Started
 
